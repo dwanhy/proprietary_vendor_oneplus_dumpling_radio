@@ -1,0 +1,79 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: vLQdyVab7kXYlx0QURJVfz82ofk=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: xo88IkrORjqdtZGAwF6uEaCJkd4=
+
+Name: firmware-update/BTFM.bin
+SHA1-Digest: YKQTO7wdc3hWgK2NqiNvEpZijXc=
+
+Name: RADIO/8v1ee.bin
+SHA1-Digest: +cjfve9p5ZYJMSMxZLbRcbtx/TI=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: system.transfer.list
+SHA1-Digest: pjd3Qok4i6+dtUIz+wdRkiug/tQ=
+
+Name: firmware-update/abl.elf
+SHA1-Digest: J0BrjSMti3mGITLgpBIJ8Ut6dyQ=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: eYD2GIzqz9QeLmbrmTLz36qNfy4=
+
+Name: firmware-update/keymaster.mbn
+SHA1-Digest: Y/g/neoHXtopJuWvVaMuYjyTotU=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: eyXWCW1JY197lpTJtKEuTaks1BQ=
+
+Name: firmware-update/xbl.elf
+SHA1-Digest: RIACN8o0joWrZhd2Iws92/Y5AOM=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: 9sCeCer24tTek6Jw+/dWX/0FJMU=
+
+Name: firmware-update/cmnlib64.mbn
+SHA1-Digest: ys2qKBs6wa9FmPmAahhLjlmz1FM=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: tckegUnGnM6ReFneJMrl2HEeLNw=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: tcL1Si58yYM5zlWaOR54GVoIbSs=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: OSVlvBLh4NQii1c1O68y+GWIUEc=
+
+Name: firmware-update/hyp.mbn
+SHA1-Digest: Ar9AeuwQmiXTP8S3PcZgABKfyqY=
+
+Name: boot.img
+SHA1-Digest: r94RzT4UTzmt/nys0U2ytZUumtE=
+
+Name: RADIO/static_nvbk.bin
+SHA1-Digest: tML9zg6GAFrIciF1pyQuErZfvbQ=
+
+Name: system.new.dat
+SHA1-Digest: w7oxGr4vz9JHyCh17Tq2KNnh86Y=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: m4290YMW2lA3B/6l8f1quP9IIO8=
+
+Name: firmware-update/logo.bin
+SHA1-Digest: T4HykrS8Fy33wshMaPaMda/jT7k=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: nXtO9szuYtFJtVWkD9+sfKG9xWs=
+
+Name: firmware-update/pmic.elf
+SHA1-Digest: 8GU7Q9yOwMLg2GjRoCe0tc3QcFk=
+
+Name: RADIO/4j1ed.bin
+SHA1-Digest: 0p4r+7l0XGL/MJTMg0BrILqOFI4=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: pMs8E/f7nZmt3ExLh25kbns5AP4=
+

@@ -2,6 +2,10 @@ getprop("ro.display.series") == "OnePlus 5T" || abort("E3004: This package is fo
 show_progress(0.750000, 10);
 ui_print("Writing static_nvbk image...");
 package_extract_file("RADIO/static_nvbk.bin", "/dev/block/bootdevice/by-name/oem_stanvbk");
+ui_print("Writing 8v1ee image...");
+package_extract_file("RADIO/8v1ee.bin", "/dev/block/bootdevice/by-name/fw_8v1ee");
+ui_print("Writing 4j1ed image...");
+package_extract_file("RADIO/4j1ed.bin", "/dev/block/bootdevice/by-name/fw_4j1ed");
 
 # ---- radio update tasks ----
 
